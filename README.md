@@ -1,11 +1,11 @@
 # Megogo-Parimatch-Hackathon-Media-Control
 Voice assistant app for managing media content. Application as developed during Megogo Parimatch Hackathon
 
-**Issue:** Users may experience inconvenience when interacting with media content.
+___Issue:___ Users may experience inconvenience when interacting with media content.
 
-**Relevance:** according to statistics, more and more people use voice assistants.
+___Relevance:___ according to statistics, more and more people use voice assistants.
 
-As a result, I came to the conclusion that a good **solution** would be a voice assistant for controlling the media player
+As a result, I came to the conclusion that a good ___solution___ would be a voice assistant for controlling the media player
 
 ## App schema
 
@@ -23,7 +23,7 @@ As a result, I came to the conclusion that a good **solution** would be a voice 
 
 ---
 
-Business part was calculated approximately. Key metrics were established and substantiated.
+___Business part___ was calculated approximately. ___Key metrics___ were established and substantiated.
 
 ## Application preformance demo
 Demo video speed up
