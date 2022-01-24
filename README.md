@@ -9,7 +9,7 @@ As a result, I came to the conclusion that a good **solution** would be a voice 
 
 ## App schema
 
-<img src="https://github.com/DmitriyAgafonov/Megogo-Parimatch-Hackathon-Media-Control/blob/master/docs/app_schema.png" width="80%" height="80%">
+<img src="https://github.com/DmitriyAgafonov/Megogo-Parimatch-Hackathon-Media-Control/blob/master/docs/app_schema.png" width="100%" height="100%">
 
 ## How it works
 1) Еhe microphone works in streaming mode, waiting for a keyword followed by the main command.
@@ -19,7 +19,7 @@ As a result, I came to the conclusion that a good **solution** would be a voice 
 5) Calculating semantic similarity by cosine distance allows to capture the meaning of user`s command.
 6) After passing the action to the player, the program waits for the keyword again.
 
-<img src="https://github.com/DmitriyAgafonov/Megogo-Parimatch-Hackathon-Media-Control/blob/master/docs/img1.png" width="80%" height="80%">
+<img src="https://github.com/DmitriyAgafonov/Megogo-Parimatch-Hackathon-Media-Control/blob/master/docs/img1.png" width="100%" height="100%">
 
 Business part was calculated approximately. Key metrics were established and substantiated.
 
