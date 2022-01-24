@@ -21,6 +21,8 @@ As a result, I came to the conclusion that a good **solution** would be a voice 
 
 <img src="https://github.com/DmitriyAgafonov/Megogo-Parimatch-Hackathon-Media-Control/blob/master/docs/img1.png" width="100%" height="100%">
 
+---
+
 Business part was calculated approximately. Key metrics were established and substantiated.
 
 ## Application preformance demo
